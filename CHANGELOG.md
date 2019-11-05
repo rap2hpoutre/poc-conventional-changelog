@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.0.0...v2.1.0) (2019-11-05)
+
+
+### Features
+
+* add text in readme ([2a5c772](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/2a5c772a837a3d639f7877860db9b66ce842807b))
+
+
+### Bug Fixes
+
+* finish phrase ([1162556](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/1162556501f0f0bdd8dbfb5f3de117ae8f6cde20))
+
 ## 2.0.0 (2019-11-05)
 
 
