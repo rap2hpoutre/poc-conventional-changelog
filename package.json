@@ -11,7 +11,7 @@
   "standard-version": {
     "scripts": {
       "prerelease": "npm run build && git fetch origin && git checkout devel && git pull origin devel",
-      "pretag": "git push origin && git checkout master && git pull origin master && git merge devel --no-commit --no-ff",
+      "pretag": "git push origin && git checkout master && git pull origin master && git rebase devel",
       "posttag": "git push --follow-tags origin master && git checkout devel"
     }
   },
