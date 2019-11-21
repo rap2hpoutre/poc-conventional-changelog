@@ -5,7 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version"
+    "release": "standard-version",
+    "build": "echo \"Build\""
+  },
+  "standard-version": {
+    "scripts": {
+      "prerelease": "npm run build && git fetch origin && git checkout devel && git pull && git merge master && git checkout master && git pull && git merge devel",
+      "postrelease": "git checkout master && git push && git checkout devel"
+    }
   },
   "repository": {
     "type": "git",
