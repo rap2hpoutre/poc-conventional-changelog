@@ -12,7 +12,7 @@
   },
   "standard-version": {
     "scripts": {
-      "prerelease": "npm run build && merge-master-in-devel && merge-devel-in-master"
+      "prerelease": "npm run build && npm run merge-master-in-devel && npm run merge-devel-in-master"
     }
   },
   "repository": {
