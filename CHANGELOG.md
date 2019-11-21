@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.5.0](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.2.0...v2.5.0) (2019-11-21)
+
+
+### Features
+
+* a new text ([e78d401](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/e78d4014c6f836f3c443423bf773b239dd1af7c1))
+* try ([4184558](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/418455833bb932d4a7c3496b2d630dc49e6fbca1))
+
+
+### Bug Fixes
+
+* again ([9267ed3](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/9267ed31989eedd17d1d8606ecd35336b8adf5c7))
+* change from remote ([3ffee0a](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/3ffee0a03cb75c15d73eaefb3fc1fdb3584c26cc))
+* first try ([1f0c203](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/1f0c203c5e94546ad89f9ae10d8c07d5d631eeaa))
+* one more fix ([9d7a258](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/9d7a2584f9deceac4504af5c49fddd1a3ba8ed15))
+* test ([a165104](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/a165104aef08d3075d0ac628516eae77d002ab63))
+* test ([6e9a3fc](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/6e9a3fc17055830cf552ab6df6c2748083911f79))
+* update package.json ([5282403](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/5282403f9dfe9e517644aae9794304a20a579650))
+
 ## [2.4.0](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.2.0...v2.4.0) (2019-11-21)
 
 
