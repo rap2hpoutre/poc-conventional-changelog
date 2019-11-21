@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.2.0...v2.3.0) (2019-11-21)
+
+
+### Features
+
+* a new text ([e78d401](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/e78d4014c6f836f3c443423bf773b239dd1af7c1))
+
+
+### Bug Fixes
+
+* change from remote ([3ffee0a](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/3ffee0a03cb75c15d73eaefb3fc1fdb3584c26cc))
+* first try ([1f0c203](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/1f0c203c5e94546ad89f9ae10d8c07d5d631eeaa))
+* one more fix ([9d7a258](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/9d7a2584f9deceac4504af5c49fddd1a3ba8ed15))
+* update package.json ([5282403](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/5282403f9dfe9e517644aae9794304a20a579650))
+
 ### [2.2.2](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.2.0...v2.2.2) (2019-11-21)
 
 
