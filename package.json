@@ -6,12 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "build": "echo \"Build\""
+    "build": "echo \"Build\"",
+    "merge-master-in-devel": "git fetch origin && git checkout devel && git pull origin && git merge master && git push origin",
+    "merge-devel-in-master": "git fetch origin && git checkout master && git pull origin && git merge devel && git push origin"
   },
   "standard-version": {
     "scripts": {
-      "prerelease": "npm run build && git fetch origin && git checkout devel && git pull && git merge master && git checkout master && git pull && git merge devel",
-      "postrelease": "git checkout master && git push && git checkout devel"
+      "prerelease": "npm run build && merge-master-in-devel && merge-devel-in-master"
     }
   },
   "repository": {
