@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.5.0...v2.5.1) (2019-11-22)
+
+
+### Bug Fixes
+
+* release should contain one line ([4aa3136](https://github.com/rap2hpoutre/poc-conventional-changelog/commit/4aa3136f99bfb20a6f8131c8b7edce2fd37b5c68))
+
 ## [2.5.0](https://github.com/rap2hpoutre/poc-conventional-changelog/compare/v2.2.0...v2.5.0) (2019-11-21)
 
 
